@@ -7,27 +7,20 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/pusheen-coding.gif" width="250">
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineering+Student;Frontend+Developer;Bazzite+Linux+User">
-  </a>
-</p>
+
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> About Me
-
+## 👨‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+  <img align="right" src="https://raw.githubusercontent.com/Rizesan/Rizesan/main/pusheencode.gif" width="250">
 </picture>
 
 - 🎓 Software Engineering Student
 - ⚛️ Frontend Developer focused on React
 - 🍃 Experience with MongoDB
-- 🔐 Interested in Cybersecurity and CTFs
 - 🐧 Bazzite Linux User
 - 🌱 Always learning new technologies
 
@@ -52,7 +45,7 @@
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,java,python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,java,python" />
 </p>
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend
@@ -72,6 +65,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Bazzite-Linux-4C8BF5?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows11&logoColor=white">
 
 </p>
 
@@ -80,13 +74,11 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-Learning-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/CTFs-Active-success?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Linux-Enthusiast-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web_Development-React-orange?style=for-the-badge">
 </p>
 
 <br>
 
 ---
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
