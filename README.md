@@ -19,7 +19,7 @@
 </picture>
 
 - 🎓 Software Engineering Student
-- ⚛️ Frontend Developer focused on React
+- ⚛️ Frontend Developer
 - 🍃 Experience with MongoDB
 - 🐧 Bazzite Linux User
 - 🌱 Always learning new technologies
